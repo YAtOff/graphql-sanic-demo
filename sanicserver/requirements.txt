@@ -1,0 +1,4 @@
+graphene==2.1
+sanic==0.7.0
+Sanic-GraphQL==1.1.0
+git+https://github.com/graphql-python/graphql-ws.git
